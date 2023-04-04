@@ -12,6 +12,7 @@ public class test2 {
 
 	public void logout() {
 		System.out.println("bi");
+		System.out.println("hello");
 	}
 
 }
